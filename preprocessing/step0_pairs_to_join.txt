@@ -1,0 +1,33 @@
+UC01B 3997520 with UC01C 3997357
+UC01E 4003142 with UC01D 3991090
+SS29A 4709417 with SS29B 4734904
+UC032 871733 with UC035 3990992
+UC032 871733 with UC033 3997407
+SC08B 3997020 with SC29B 3990963
+SC212 852706 with SC21A 3968345
+SC17C 4003204 with SC17B 3991150
+SC08F 3968384 with SC08A 3968368
+SC07A 3957473 with SC07B 3974745
+RW22A 4762570 with RW22B 4814928
+RW11A 4741789 with RW11B 4741755
+SC08B 3997020 with CP084 3997440
+CP051 4008313 with CP07D 4020087
+CP07A 4008363 with CP07B 4020109 CP07B is actually completely disconnected from CP07A on USboundary.com and in voting data.
+CP051 4008313 with CP052 4008264
+CH04A 785250 with CH04B 836257
+AP12B 5106106 with AP12D 5106079
+RW13 4768363 with AP01E 4768447
+HP01 4529414 with 12E2 4032199 12E2 is actually completely disconnected from HP01 on USboundary.com and in voting data.
+08F1 4230927 with 08F2 4224033
+03P1A 4571434 with 03P1B 4566585
+05C 4566788 01I 4566678
+Button Gwinnett 3126604 with Fort Stewart 3211992 There is no voting data for Fort Stewart, but we joined it to Button Gwinnett
+0514-10C 3282654 with Fort Pulaski Prec 3361971
+Activity Center 450457 with Fort Benning1 459883 There is no voting data for Fort Benning1, but we joined it to Activity Center.
+Activity Center 450457 with Fort Benning2 436099 There is no voting data for Fort Benning2, but we joined it to Activity Center.
+Activity Center 450457 with Fort Benning3 272969 There is no voting data for Fort Benning3, but we joined it to Activity Center.
+Eddy/Key 276794 with FTBEN3 276857 There is no voting data for FTBEN3, but we joined it to Eddy/Key.
+National Infantry Museum 276896 with FTBEN4 441779 There is no voting data for FTBEN4, but we joined it to National Infantry Museum.
+National Infantry Museum 276896 with FTBEN2 441734 There is no voting data for FTBEN2, but we joined it to National Infantry Museum.
+MT Pilgrim 441823 with FTBEN1 441887 There is no voting data for FTBEN1, but we joined it to MT Pilgrim.
+PSalmond/Mathews 679836 with ZZZZZZZ 450580 There is no voting data for ZZZZZZZ, but we joined it to PSalmond/Mathews. Note that ZZZZZZZ is called Fort Benning4 and FTBEN4 does not appear in usboundary.com
