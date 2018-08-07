@@ -27,3 +27,7 @@ Step 5: From here on out, the shapefiles will not be changed. In this step, we c
 area, perimeter, whether or not the precinct is on the state border, length of the perimeter shared with each neighbor, and list of all the neighbors to that precinct.
 
 Step 6: Due to complications with having a list in some entry in a data frame, we merged all of the neighbor and length data in R. 
+
+Step 7: This step sets up a file of the neighborhoods for each precinct and puts it into a file so that the Boyer-Myrvold algorithm for planar embedding can be used to generate a planar embedding. 
+
+Step 8: This step merges the neighborhood data from the planar embedding back into the file. At this point, we are ready to use the MCMC algorithm. 
